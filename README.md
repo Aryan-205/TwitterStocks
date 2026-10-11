@@ -27,3 +27,4 @@ packages/db    Kysely types + hand-written SQL migrations
 
 ## Spec
 See `chat.md` in parent dir for full spec. Money = BIGINT minor units (1 CLOUT = 100 units). Curve k=1 exact BigInt math.
+# TwitterStocks
